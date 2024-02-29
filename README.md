@@ -5,10 +5,10 @@ This user-friendly Flutter application simplifies Liquid Galaxy control with an 
 
 ## Screenshots
 
-![Screenshot 2024-01-15 002217](https://github.com/srn08/lg-easy-control-app/assets/105499798/e8dec070-2c70-4ded-9f07-9006532680ff)
-![Screenshot 2024-01-15 002248](https://github.com/srn08/lg-easy-control-app/assets/105499798/919ed7ed-ece6-49e6-bcb5-1bcf0e4a85c2)  
-![Screenshot 2024-01-23 182013](https://github.com/srn08/lg-easy-control-app/assets/105499798/d678e979-748f-413f-b657-d3f91b9acb6e)   
-![Screenshot 2024-01-23 182028](https://github.com/srn08/lg-easy-control-app/assets/105499798/43889165-9c35-4967-b9cf-4b1d03f340ea)
+![Screenshot 2024-01-23 182028](https://raw.githubusercontent.com/Saumya-28/voyager-LG_controller/master/assets/images/github/settingspage.png)
+![Screenshot 2024-01-15 002217](https://raw.githubusercontent.com/Saumya-28/voyager-LG_controller/master/assets/images/github/homepage.png)
+![Screenshot 2024-01-15 002248](https://raw.githubusercontent.com/Saumya-28/voyager-LG_controller/master/assets/images/github/navigate.png)  
+![Screenshot 2024-01-23 182013](https://raw.githubusercontent.com/Saumya-28/voyager-LG_controller/master/assets/images/github/overlay.png)   
 
 ## Getting Started
 
@@ -19,15 +19,14 @@ Before running the Liquid Galaxy Easy Control App locally, ensure you have the F
 1. Clone the repository:
 
     ```dart
-    
-    ```
+    https://github.com/Saumya-28/voyager-LG_controller.git
 
     ```
 
 2. Fetch dependencies:
 
     ```dart
-   flutter pub get
+     flutter pub get
     ```
 
 3. Connect your device or start an emulator (tablet).
@@ -53,9 +52,5 @@ Afterward, navigate to the app Settings Page , fill in the required details ```i
 - **Feature 2:** Play an orbit animation.
 - **Feature 3:** Display an overlay with name and city.
 - **Feature 4:** Reboot the Liquid Galaxy.
-
-## Feedback and Contributions
-
-We welcome feedback, bug reports, and contributions to enhance the Liquid Galaxy Easy Control App. Feel free to open issues or submit pull requests through the GitHub repository.
 
 That's all we are ready to go! 🌐✨
