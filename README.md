@@ -54,3 +54,4 @@ Afterward, navigate to the app Settings Page , fill in the required details ```i
 - **Feature 4:** Reboot the Liquid Galaxy.
 
 That's all we are ready to go! 🌐✨
+Thank You!
